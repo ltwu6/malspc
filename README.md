@@ -1,4 +1,4 @@
-#MAL-SPC
+# MAL-SPC
 This is the official implementation for the paper Self-supervised 3D Point Cloud Completion via Multi-view Adversarial Learning
 
 ## Dataset
