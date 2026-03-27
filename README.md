@@ -1,5 +1,5 @@
 # MAL-UPC
-This is the official implementation for the paper [Unsupervised 3D Point Cloud Completion via Multi-View Adversarial Learning]([https://ieeexplore.ieee.org/abstract/document/10959142])(Accepted by IEEE TVCG)
+This is the official implementation for the paper [Unsupervised 3D Point Cloud Completion via Multi-View Adversarial Learning](https://ieeexplore.ieee.org/abstract/document/10959142)(Accepted by IEEE TVCG)
 
 ![image](https://github.com/ltwu6/malspc/flowchart.png)
 
