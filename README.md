@@ -15,7 +15,7 @@ Cuda: 11.1
 [Baiduyun](https://pan.baidu.com/s/1rkLvKgEaUc_YU1yIoA8uAQ)( 
 code：pmvu)
 
-## Training
+## Get Started
 ```
 CUDA_VISIBLE_DEVICES=0 python train_cfgan.py
 ```
